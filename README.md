@@ -1,5 +1,5 @@
 # Simple-Assembler-Simulator
-Created a simple shell using C language which handles some of the terminal commands and gives the output accordingly
+Created a simple shell using C language which handles some of the terminal commands and gives the output accordingly.
 
 Name: Vivek Jain
 Roll no.: 2021218
